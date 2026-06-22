@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Activity UI Simulator",
+  "description": "An interactive, visually stunning cybernetic Material Design UI simulator with high-fidelity, functional preview screens for 150+ activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
